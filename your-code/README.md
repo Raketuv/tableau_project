@@ -29,6 +29,7 @@ Used statistical analysis, as well as crosstabs, boxplots and scatter plots in T
 # Results presented in Tableau story
 
 Tableau Story 1 in : ironhack_project_heartdisease.twbx
+(https://public.tableau.com/profile/raketuv.johnson#!/vizhome/ironhack_project_heartdisease/Story1)
 
 1. All binary measures with stastically significant association with heart disease at p>0.005 (statistical significance threshold adjusted for multivariable testing of 10 measures
 
